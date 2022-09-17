@@ -1,0 +1,11 @@
+{
+    "name": "user/ipt10stripe",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10stripe\\": "src/"
+        }
+    },
+    "require": {
+        "stripe/stripe-php": "^9.5"
+    }
+}
